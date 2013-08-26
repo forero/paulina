@@ -19,3 +19,4 @@ if (len(f) == 2):
 
 else:
     print "El numero no tiene una factorizacion de dos primos"
+    
